@@ -11,3 +11,12 @@ body {
     padding:20px;
     margin:20px;
 }
+
+.cheat-black {
+    width: 50%;
+    color: white;
+    background-color:black;
+    border: tomato 5px solid;
+    padding:20px;
+    margin:20px;
+}
