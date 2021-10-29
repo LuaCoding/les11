@@ -1,0 +1,13 @@
+body {
+    background-color: lightpink;
+    color: #113311;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cheat {
+    width: 50%;
+    background-color:aliceblue;
+    border: tomato 5px solid;
+    padding:20px;
+    margin:20px;
+}
